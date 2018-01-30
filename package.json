@@ -1,5 +1,5 @@
 {
-  "name": "tinypng",
+  "name": "@zhyabs1314/tinypng",
   "version": "1.0.0",
   "description": "node tinypng",
   "main": "tinypng.js",
@@ -24,5 +24,6 @@
   "homepage": "https://github.com/OPY-bbt/tinypng#readme",
   "dependencies": {
     "tinify": "^1.5.0"
-  }
+  },
+  "devDependencies": {}
 }
