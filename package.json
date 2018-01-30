@@ -1,8 +1,11 @@
 {
   "name": "@zhyabs1314/tinypng",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "node tinypng",
   "main": "tinypng.js",
+  "bin": {
+    "tinypng": "./tinypng.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
