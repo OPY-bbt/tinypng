@@ -1,0 +1,28 @@
+{
+  "name": "tinypng",
+  "version": "1.0.0",
+  "description": "node tinypng",
+  "main": "tinypng.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OPY-bbt/tinypng.git"
+  },
+  "keywords": [
+    "tiny",
+    "png",
+    "node",
+    "command"
+  ],
+  "author": "zy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OPY-bbt/tinypng/issues"
+  },
+  "homepage": "https://github.com/OPY-bbt/tinypng#readme",
+  "dependencies": {
+    "tinify": "^1.5.0"
+  }
+}
