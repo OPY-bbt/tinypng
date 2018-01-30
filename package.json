@@ -1,6 +1,6 @@
 {
   "name": "@zhyabs1314/tinypng",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "node tinypng",
   "main": "tinypng.js",
   "bin": {
