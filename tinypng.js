@@ -20,7 +20,7 @@ process.argv.slice(2).reduce(function(sum, next, index, arr) {
 var targetPath = argvMap['-p'] || './';
 var rewrite = argvMap['-r'] || 'false';
 var key = argvMap['-k'] || 'shnW0WhWVGYYkbbrtlZ79DnZLHEE4Jd7';
-var dirName = argvMap['-d'] || 'minImg';
+var dirName = argvMap['-d'] || '.';
 
 if (!key) {
   console.error(RED, 'Error: input your tinypng Develop API');
